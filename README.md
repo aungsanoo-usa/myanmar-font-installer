@@ -19,10 +19,10 @@ This script automates the process of installing the **Noto Sans Myanmar** font, 
 1. **Clone the Repository** (or simply download the script):
 
     ```bash
-   git clone https://github.com/aungsanoo-usa/repository-name.git
+   https://github.com/aungsanoo-usa/myanmar-font-installer.git
     ```
     ```bash
-   cd repository-name
+   cd myanmar-font-installer
     ```
 
       
